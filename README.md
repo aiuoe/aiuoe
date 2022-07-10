@@ -3,8 +3,10 @@
 [![Codewars Badge](https://www.codewars.com/users/devops.ruben/badges/large)](https://www.codewars.com/users/devops.ruben)
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10056538)](https://stackoverflow.com/users/10056538/ruben-cortez)
-[![Aiuoe](https://github-readme-stats.vercel.app/api?username=aiuoe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&hide_border=true)]
-[![Aiuoe](https://github-readme-stats.vercel.app/api/top-langs?username=aiuoe&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)]
+
+![Aiuoe](https://github-readme-stats.vercel.app/api?username=aiuoe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical&hide_border=true)
+
+![Aiuoe](https://github-readme-stats.vercel.app/api/top-langs?username=aiuoe&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=aiuoe&theme=tokyonight) -->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=aiuoe&theme=react-dark&hide_border=true&area=true)
 
