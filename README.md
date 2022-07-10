@@ -25,7 +25,8 @@
 <img alt="Slack" src="https://img.shields.io/badge/slack%20-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/> <img alt="Microsoft Teams" src="https://img.shields.io/badge/microsoftteams%20-%236264A7.svg?&style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiuoe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham)
+![Aiuoe](https://github-readme-stats.vercel.app/api?username=aiuoe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham&hide_border=true)
+![Aiuoe](https://github-readme-stats.vercel.app/api/top-langs?username=aiuoe&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
 
 <!--
 **aiuoe/aiuoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
